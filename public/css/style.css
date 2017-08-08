@@ -1,0 +1,30 @@
+body{
+    background-color: yellowgreen;
+}
+#bur{
+    position: fixed;
+    top:2%;
+    left:35%;
+}
+#eat{
+    position: fixed;
+    top:40%;
+    left:10%;
+}
+#toeat{
+    position: fixed;
+    top:40%;
+    left:20%;
+}
+#eaten{
+    position: fixed;
+    top:40%;
+    left:65%;
+}
+.newBurger{
+    position: fixed;
+    top:70%;
+    left:40%;
+    text-align: center;
+}
+
